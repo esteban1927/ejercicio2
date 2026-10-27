@@ -1,3 +1,4 @@
+package com.ejercicio2;
 import java.util.Random;
 
 /**
