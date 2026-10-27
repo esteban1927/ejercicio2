@@ -1,3 +1,4 @@
+package com.ejercicio2;
 /**
  * Subclase concreta {@code Guerrero}.
  *

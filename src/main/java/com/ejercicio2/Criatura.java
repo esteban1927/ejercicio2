@@ -1,3 +1,4 @@
+package com.ejercicio2;
 /**
  * Clase abstracta que representa una criatura dentro del juego de batalla.
  *

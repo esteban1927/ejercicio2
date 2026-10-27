@@ -224,3 +224,5 @@ git push origin develop
 
 - Programación II — Grupo G411
 - Parcial II, ejercicio en parejas
+ Esteban Muñoz Ordpñez
+ Samuel Andres Gomez Taborda

@@ -1,8 +1,9 @@
+package com.ejercicio2;
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class BatallaMain {
+public class Main {
 
     /** Limite de rondas para evitar combates infinitos. */
     private static final int MAX_RONDAS = 30;
